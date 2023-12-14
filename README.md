@@ -2,11 +2,10 @@
 
 Sou um goianiense, pai de familia, 41 anos, que se encontrou profissionalmente em programação Front-End e estou sempre em busca de novos desafios e aprendizados. Meu foco principal é em desenvolvimento web, especialmente utilizando tecnologias como React e seu ecossistema.
 
-Meus Hobbies incluem passar tempo em familia (filme com a esposa e futebol com o filhote de 9 anos), andar de bike, ouvir modão, ler um bom livro antes de dormir e de tempos em tempos pescar na chácara com meus pais.
+Meus Hobbies incluem passar tempo em familia (filme com a esposa e futebol com o filhote de 9 anos), ouvir modão, ler um bom livro antes de dormir e de tempos em tempos pescar na chácara com meus pais.
 
 [![Badge com Imagem](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-santana-22591a180/)
-[![Badge com Imagem](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_rsan/)
-
+  
 
 ## 🛠 Tecnologias
 
@@ -20,6 +19,5 @@ Meus Hobbies incluem passar tempo em familia (filme com a esposa e futebol com o
 ![Badge Personalizada](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## :dart: Aprendizado em Andamento
-![Badge Personalizada](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Badge Personalizada](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Badge Personalizada](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Badge Personalizada](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Badge Personalizada](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
