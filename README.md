@@ -1,6 +1,6 @@
 # Olá, eu sou Wesley Santana! 👋
 
-Sou um estudante de pós-graduação em programação FullStack focado no ecossistema de JavaScript, goianiense, pai de familia, 42 anos, que se encontrou profissionalmente em Programação Web e estou sempre em busca de novos desafios e aprendizados. Meu foco principal é em desenvolvimento web front-end, especialmente utilizando React, mas também tenho desenvolvido projetos backend com Node e Bancos de Dados relacionais e não-relacionais, porém estou sempre aberto a novas tecnologias e desafios.
+Sou um estudante de pós-graduação em programação FullStack focado no ecossistema de JavaScript, goianiense, pai de família, 42 anos, que se encontrou profissionalmente em Programação Web e estou sempre em busca de novos desafios e aprendizados. Meu foco principal é em desenvolvimento web front-end, especialmente utilizando React, mas também tenho desenvolvido projetos back-end com Node e Bancos de Dados relacionais e não-relacionais, porém estou sempre aberto a novas tecnologias e desafios.
 
 [![Badge com Imagem](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-santana-22591a180/)
   
